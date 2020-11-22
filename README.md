@@ -1,2 +1,2 @@
-# blessinvarkey.github.io
+# Blessin Varkey
 Personal Website 
