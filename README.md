@@ -1,19 +1,8 @@
 # Blessin Varkey
 ### Personal Website 
 
+## Shortlisted Papers
 For the full list of papers you can visit my [Google Scholar](https://scholar.google.co.in/citations?user=LyH1LVAAAAAJ&hl=en) or [dblp profile](https://dblp.org/pid/176/4218.html). 
-
-<>
-
-<details> AI Research 
-  - Gaze-based Screening of Autistic Traits for Adolescents and Young Adults using Prosaic Videos <br>
-  - VisualMath: An Automated Visualization System for Understanding Math Word-Problems
-
-</details>
-
-
-<details><summary><strong>HCI Research (Selected papers) </strong></summary> 
-<br>
 
 ### [Promoting joint attention with computer supported collaboration in children with autism](https://dl.acm.org/doi/abs/10.1145/2982142.2982166)
 
