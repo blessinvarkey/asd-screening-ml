@@ -47,6 +47,5 @@ For the full list of papers you can visit my [Google Scholar](https://scholar.go
 
 | Contact Method |  |
 | --- | --- |
-| Professional Email | blessinvarkey@tamana.ngo |
-| Personal Email | blessinvarkey@gmail.com |
+| Twitter | [@blessinvarkey](https://twitter.com/blessinvarkey) |
 | LinkedIn | [linkedin.com/in/blessinvarkey/](https://www.linkedin.com/in/blessinvarkey/) |
