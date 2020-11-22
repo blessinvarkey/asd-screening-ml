@@ -3,8 +3,10 @@
 
 1. Projects
 2. [Published Papers](https://blessinvarkey.github.io/research)
-2. Computer Vision Project 
-3. Machine Learning Project
+3. Computer Vision Project 
+4. Machine Learning Project
+5. AstroPy Project
+
 
 ### Contact Me
 
