@@ -1,7 +1,7 @@
 # Blessin Varkey
 ### Research
 
-1. [Published Papers](https://blessinvarkey.github.io/research)
+1. Published Papers
 2. Projects
   - Computer Vision Project 
   - Machine Learning Project
