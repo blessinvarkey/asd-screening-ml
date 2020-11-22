@@ -1,11 +1,11 @@
 # Blessin Varkey
 ### Personal Website 
 
-1. Projects
-2. [Published Papers](https://blessinvarkey.github.io/research)
-3. Computer Vision Project 
-4. Machine Learning Project
-5. AstroPy Project
+1. [Published Papers](https://blessinvarkey.github.io/research)
+2. Projects
+  - Computer Vision Project 
+  - Machine Learning Project
+  - AstroPy Project
 
 
 ### Contact Me
