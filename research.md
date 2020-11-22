@@ -1,10 +1,10 @@
 # Blessin Varkey
 ### Research
 
-1. [Research Papers](https://blessinvarkey.github.io/research)
+1. Projects
+2. [Published Papers](https://blessinvarkey.github.io/research)
 2. Computer Vision Project 
 3. Machine Learning Project
-
 ## Selected Papers
 For the full list of papers you can visit my [Google Scholar](https://scholar.google.co.in/citations?user=LyH1LVAAAAAJ&hl=en) or [dblp profile](https://dblp.org/pid/176/4218.html). 
 
