@@ -1,6 +1,6 @@
 # Blessin Varkey
 
-1. About Me
+1. **About Me**
 2. [Published Papers](https://blessinvarkey.github.io/research)
 3. Projects
   - Accessibility Projects
