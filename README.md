@@ -24,6 +24,5 @@ Featured in [IEEE Spectrum](https://spectrum.ieee.org/at-work/tech-careers/an-en
 
 | Contact Method |  |
 | --- | --- |
-| Professional Email | blessinvarkey@tamana.ngo |
-| Personal Email | blessinvarkey@gmail.com |
+| Twitter | [@blessinvarkey](https://twitter.com/blessinvarkey) |
 | LinkedIn | [linkedin.com/in/blessinvarkey/](https://www.linkedin.com/in/blessinvarkey/) |
