@@ -1,13 +1,14 @@
 # Blessin Varkey
-### Research
 
-1. [About Me](https://blessinvarkey.github.io/)
-2. Projects
+1. **About Me**
+2. [Published Papers](https://blessinvarkey.github.io/research)
+3. Projects
+  - Accessibility Projects
   - Computer Vision Project 
   - Machine Learning Project
   - AstroPy Project
 
-### Selected Papers
+### Selected Research Papers
 For the full list of papers you can visit my [Google Scholar](https://scholar.google.co.in/citations?user=LyH1LVAAAAAJ&hl=en) or [dblp profile](https://dblp.org/pid/176/4218.html). 
 
 ### [Functional Brain Connectivity Analysis in Intellectual Developmental Disorder during Music Perception](https://ieeexplore.ieee.org/abstract/document/9201163/)
