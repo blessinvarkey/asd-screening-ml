@@ -1,5 +1,5 @@
 # Blessin Varkey
-### Personal Website 
+### About Me
 
 As the Innovation & Research Lead at Tamana, Blessin has worked with a range of multidisciplinary teams for both research and product innovation. As a social innovator, my work at Tamana was recognized by [NASSCOM](https://nasscomfoundation.org/nsif-winners/winner-kinect-based-applications-tamana/) in 2015 for developing HOPE, a Kinect based application for individuals with developmental disabilities. I have worked on multiple HCI, AI and Accessibility projects with researchers from Deakin University, Australia, IBM Research India, NIOS Research, MoSJE Research; University of Tampere & Microsoft India for developing applied, accessible and educational solutions. My research interests/publications cover areas including: Human-Computer Interaction, Social Computing, Accessibility and Artificial Intelligence. 
 
