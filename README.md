@@ -1,7 +1,8 @@
 # Blessin Varkey
 ### Personal Website 
 
-1. [Research Papers](https://blessinvarkey.github.io/research)
+1. Projects
+2. [Published Papers](https://blessinvarkey.github.io/research)
 2. Computer Vision Project 
 3. Machine Learning Project
 
