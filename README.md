@@ -5,12 +5,10 @@ Personal Website
 For the full list of papers you can visit my [Google Scholar](https://scholar.google.co.in/citations?user=LyH1LVAAAAAJ&hl=en) or [dblp profile](https://dblp.org/pid/176/4218.html). 
 
 ###AI Research
-<details><summary><strong>
-[Gaze-based Screening of Autistic Traits for Adolescents and Young Adults using Prosaic Videos](https://dl.acm.org/doi/abs/10.1145/3378393.3402242)
- </strong></summary> 
-<br>
-<br>
 
+<details>
+### [Gaze-based Screening of Autistic Traits for Adolescents and Young Adults using Prosaic Videos](https://dl.acm.org/doi/abs/10.1145/3378393.3402242)
+  
 **Abstract**
 <br>
 
