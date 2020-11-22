@@ -5,9 +5,7 @@ For the full list of papers you can visit my [Google Scholar](https://scholar.go
 
 <>
 
-<details><strong>AI Research </summary> 
-<br>
-
+<details> AI Research 
   - Gaze-based Screening of Autistic Traits for Adolescents and Young Adults using Prosaic Videos <br>
   - VisualMath: An Automated Visualization System for Understanding Math Word-Problems
 
