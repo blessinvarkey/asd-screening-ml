@@ -44,6 +44,4 @@ For the full list of papers you can visit my [Google Scholar](https://scholar.go
 
 
 ### Contact Me
-
-| Twitter | [@blessinvarkey](https://twitter.com/blessinvarkey) |
-| LinkedIn | [linkedin.com/in/blessinvarkey/](https://www.linkedin.com/in/blessinvarkey/) |
+| Twitter : [@blessinvarkey](https://twitter.com/blessinvarkey) | LinkedIn:  [linkedin.com/in/blessinvarkey/](https://www.linkedin.com/in/blessinvarkey/)
