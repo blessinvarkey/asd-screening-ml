@@ -1,10 +1,8 @@
 # Blessin Varkey
 Personal Website 
-
-# HCI & Accessibility Research
 <br>
 
-## Research At A Glance
+## HCI & Accessibility Research
 
 ### [Promoting joint attention with computer supported collaboration in children with autism](https://dl.acm.org/doi/abs/10.1145/2982142.2982166)
 
