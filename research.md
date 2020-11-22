@@ -7,7 +7,7 @@
 4. Machine Learning Project
 5. AstroPy Project
 
-## Selected Papers
+### Selected Papers
 For the full list of papers you can visit my [Google Scholar](https://scholar.google.co.in/citations?user=LyH1LVAAAAAJ&hl=en) or [dblp profile](https://dblp.org/pid/176/4218.html). 
 
 ### [Functional Brain Connectivity Analysis in Intellectual Developmental Disorder during Music Perception](https://ieeexplore.ieee.org/abstract/document/9201163/)
