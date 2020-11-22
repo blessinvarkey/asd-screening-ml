@@ -21,8 +21,4 @@ Featured in [IEEE Spectrum](https://spectrum.ieee.org/at-work/tech-careers/an-en
 
 
 ### Contact Me
-
-| Contact Method |  |
-| --- | --- |
-| Twitter | [@blessinvarkey](https://twitter.com/blessinvarkey) |
-| LinkedIn | [linkedin.com/in/blessinvarkey/](https://www.linkedin.com/in/blessinvarkey/) |
+| Twitter : [@blessinvarkey](https://twitter.com/blessinvarkey) | LinkedIn:  [linkedin.com/in/blessinvarkey/](https://www.linkedin.com/in/blessinvarkey/)
