@@ -5,9 +5,6 @@
 2. Computer Vision Project 
 3. Machine Learning Project
 
-</details>
-
-
 ### Contact Me
 
 | Contact Method |  |
