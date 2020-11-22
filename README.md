@@ -5,9 +5,10 @@
 <br>
 
 1. Research Projects
-    - Python
+    - HCI, Artificial Intelligence, Educational Technology, Accessibility
       - [Research](https://blessinvarkey.github.io/research)
-2. [Public Tableau Visualizations]
+2. Computer Vision Project 
+3. Machine Learning Project
 
 </details>
 
