@@ -4,8 +4,9 @@ Personal Website
 
 For the full list of papers you can visit my [Google Scholar](https://scholar.google.co.in/citations?user=LyH1LVAAAAAJ&hl=en) or [dblp profile](https://dblp.org/pid/176/4218.html). 
 
+<details><summary><strong>AI Research </strong></summary> 
+<br>
 
-### AI Research
 ### [Gaze-based Screening of Autistic Traits for Adolescents and Young Adults using Prosaic Videos](https://dl.acm.org/doi/abs/10.1145/3378393.3402242)
 
 **Abstract**
@@ -16,8 +17,12 @@ For the full list of papers you can visit my [Google Scholar](https://scholar.go
 ### [VisualMath: An Automated Visualization System for Understanding Math Word-Problems](https://dl.acm.org/doi/abs/10.1145/3030024.3040989)
 > Math word problems are difficult for students to start with since they involve understanding the problem? s context and abstracting out its underlying mathematical operations. A visual understanding of the problem at hand can be very useful for the comprehension of the problem. We present a system VisualMath that uses machine learning tools and crafted visual logic to automatically generate appropriate visualizations from the text of the word-problems and solve it. We demonstrate the improvements in the understanding of math word-problems by conducting a user study and learning of meaning of relevant new words by students.
 
+</details>
 
-### HCI Research (Selected papers)
+<details><summary><strong>HCI Research (Selected papers)
+ </strong></summary> 
+<br>
+
 ### [Promoting joint attention with computer supported collaboration in children with autism](https://dl.acm.org/doi/abs/10.1145/2982142.2982166)
 
 **Abstract**
