@@ -17,10 +17,10 @@ The Kinect Sensor consists of:
   distance from hand vs distance from face) regardless of the lighting conditions. The RGB Camera or the Color VGA video camera helps in facial recognition and other detection     
   features by detecting red, green and blue.
   </details>
-  
+  <br>
   <details><summary><strong>Motor Subsystem</strong></summary>
-  </details>
-  
+  </details> 
+  <br>
   <details><summary><strong>Audio Subsystem</strong></summary>
   </details>
   
