@@ -12,6 +12,7 @@
 ## Kinect Sensor
 
 ![alt image](Architecture-of-Microsoft-Kinect-sensor.png)
+
 The motion sensing device, Microsoft Kinect, enables users of all ages to interact through gestures. Kinect has been used in a wide rage of areas including healthcare, education,  performing arts, robotics, sign language recognition, retail services, workplace safety training, as well as 3D reconstructions[1](https://www.researchgate.net/publication/277637546_A_Survey_of_Applications_and_Human_Motion_Recognition_with_Microsoft_Kinect). Lets now look at the three 
 ###  1. Optical Subsystem 
   - The Optical Subsystem consists of a Depth Projector, Depth Sensor and a RGB Camera. 
