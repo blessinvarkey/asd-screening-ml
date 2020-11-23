@@ -1,7 +1,7 @@
 # Blessin Varkey
 
 1. **About Me**
-2. [Published Research](https://blessinvarkey.github.io/research/research)
+2. [Published Research](https://blessinvarkey.github.io/Research/research)
 3. Projects
   - Accessibility Projects
   - Computer Vision Project 
