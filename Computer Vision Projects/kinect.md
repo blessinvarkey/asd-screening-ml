@@ -13,10 +13,14 @@
 
 The Kinect Sensor consists of:
 ![alt image](Architecture-of-Microsoft-Kinect-sensor.png)
- ###  1. Optical Subsystem: 
- The Optical Subsystem consists of a Depth Projector, Depth Sensor and a RGB Camera. The Depth Projector (infrared projector) & Depth Sensor (monochrome CMOS sensor) work together to identify patterns in the room - like distance of the sensor from the hand and from the face, regardless of the lighting conditions. The RGB Camera or the Color VGA video camera helps in facial recognition and helps detecting red, green and blue colors.
-  
- ###  2. Motor Subsystem  
+Image [source](file:///C:/Users/user/Downloads/Hybrid_Motion_Planning_Method_for_Autonomous_Robot.pdf)
+
+###  1. Optical Subsystem: 
+  - The Optical Subsystem consists of a Depth Projector, Depth Sensor and a RGB Camera. The Depth Projector (infrared projector) & Depth Sensor (monochrome CMOS sensor) work        together to identify patterns in the room - like distance of the sensor from the hand and from the face, regardless of the lighting conditions. 
+  - The RGB Camera or the Color VGA video camera helps in facial recognition and helps detecting red, green and blue colors.
  
- ###  3. Audio Subsystem
+###  2. Motor Subsystem  
+  - 
+ 
+###  3. Audio Subsystem
   
