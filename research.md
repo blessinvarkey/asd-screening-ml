@@ -6,7 +6,8 @@
   - Accessibility Projects
   - Computer Vision Project 
   - Machine Learning Project
-  - AstroPy Project
+4. Personal Projects
+  - [AstroPy Blog](https://blessinvarkey.github.io/astropy)
 
 ### Published Research (Selected)
 For the full list of papers you can visit my [Google Scholar](https://scholar.google.co.in/citations?user=LyH1LVAAAAAJ&hl=en) or [dblp profile](https://dblp.org/pid/176/4218.html). 
