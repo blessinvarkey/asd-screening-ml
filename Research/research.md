@@ -26,6 +26,9 @@ For the full list of papers you can visit my [Google Scholar](https://scholar.go
 
 > Autism Spectrum Disorder (ASD) is a universal and often lifelong neuro-developmental disorder. Individuals with ASD often present comorbidities such as epilepsy, depression, and anxiety. In the United States, in 2014, 1 out of 68 people was affected by autism, but worldwide, the number of affected people drops to 1 in 160. This disparity is primarily due to underdiagnosis and unreported cases in resource-constrained environments. Wiggins et al. 1 found that, in the US, children of color are under-identified with ASD. Missing a diagnosis is not without consequences; approximately 26% of adults with ASD are under-employed, and are under-enrolled in higher education.
 
+![alt text](2-Figure1-1.png)
+
+
 ### [Designing gesture-based applications for individuals with developmental disabilities: guidelines from user studies in India](https://dl.acm.org/doi/abs/10.1145/3161710)
 
 **Abstract**
