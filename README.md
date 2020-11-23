@@ -6,7 +6,9 @@
   - Accessibility Projects
   - Computer Vision Project 
   - Machine Learning Project
-  - AstroPy Project
+4. Personal Projects
+  - [AstroPy Blog](https://blessinvarkey.github.io/astropy)
+
 
 
 ### About Me
