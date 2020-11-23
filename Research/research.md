@@ -46,6 +46,7 @@ For the full list of papers you can visit my [Google Scholar](https://scholar.go
 **Abstract**
 
 > Early intervention is critical for children with autism. To provide affordable computer assisted therapies for developing countries, we construct infrastructures for translating and adapting early intervention programs such as TOBY to an Indian context. A Hindi prototype is built and two trials are conducted, showing that the technology was accepted and that the children learnt skills using both language versions, with the children using the Hindi prototype achieving slightly better measurable outcomes.
+
 ![alt text](4-Figure5-1.png)
 
 
