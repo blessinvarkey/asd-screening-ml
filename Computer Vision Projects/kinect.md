@@ -9,4 +9,12 @@
 4. Personal Projects
   - [AstroPy Blog](https://blessinvarkey.github.io/astropy)
 
-![alt text](3-Figure2-1.jpg)
+##Kinect Sensor
+
+The Kinect Sensor consists of:
+  <details><summary><strong>Optical Subsystem: Depth Projector, Depth Sensor and RGB Camera</strong></summary>
+  The Depth Sensor (infrared projector) & Depth Projector (monochrome CMOS (complementary metal-oxide semiconductor) sensor work together to identify patterns in the room (like  
+  distance from hand vs distance from face) regardless of the lighting conditions. The RGB Camera or the Color VGA video camera helps in facial recognition and other detection     
+  features by detecting red, green and blue.
+  </details>
+  
