@@ -9,3 +9,4 @@
 4. Personal Projects
   - [AstroPy Blog](https://blessinvarkey.github.io/astropy)
 
+![alt text](3-Figure2-1.jpg)
