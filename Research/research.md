@@ -39,7 +39,6 @@ For the full list of papers you can visit my [Google Scholar](https://scholar.go
 > There exists mounting evidence in favor of computer supported autism interventions at the individual level. However, the potential benefits of using computer supported collaboration to encourage social interactions between individuals with autism and typically developed individuals are underexplored, particularly in developing regions. We present an exploratory study of a collaborative gesture-based application, Balloons. The application encourages joint attention, which is defined as the shared attention between two individuals towards the same object. Using mixed methods, we evaluated Balloons for three weeks in New Delhi with ten medium-low functioning autistic children. Our findings suggest that employing CSC interventions for children with autism in India provide (a) observable improvements in social interaction with typically developed peers, (b) the opportunity to customize and individualize intervention to cater to a large spectrum of children and (c) the potential opportunity of reducing fears of certain objects.
 
 ![alt text](3-Figure1-1.png)
-![alt text](5-Figure2-1.png)
 
 
 ### [Computer assisted autism interventions for india](https://dl.acm.org/doi/abs/10.1145/3010915.3011007)
