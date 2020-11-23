@@ -12,7 +12,7 @@
 
 ### AstroPy and Amateur Astronomy
 
-The AstroPy blog is part of the amatuer astronomy blog I started this year: [Quasars & Cosmos]((http://quasarsandcosmos.wordpress.com/)). This page will have all the Python projects for astronomy. Meanwhile, check out my blog and do share your feedback!  
+The AstroPy blog is part of the amatuer astronomy blog I started this year: Quasars & Cosmos. This page will have all the Python projects for astronomy. Meanwhile, check out [my blog](http://quasarsandcosmos.wordpress.com/) and do share your feedback!  
 
 ### Contact Me
 | Twitter : [@blessinvarkey](https://twitter.com/blessinvarkey) <br>| LinkedIn:  [linkedin.com/in/blessinvarkey/](https://www.linkedin.com/in/blessinvarkey/)
