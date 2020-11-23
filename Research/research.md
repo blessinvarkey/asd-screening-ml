@@ -24,6 +24,14 @@ For the full list of papers you can visit my [Google Scholar](https://scholar.go
 
 > Autism Spectrum Disorder (ASD) is a universal and often lifelong neuro-developmental disorder. Individuals with ASD often present comorbidities such as epilepsy, depression, and anxiety. In the United States, in 2014, 1 out of 68 people was affected by autism, but worldwide, the number of affected people drops to 1 in 160. This disparity is primarily due to underdiagnosis and unreported cases in resource-constrained environments. Wiggins et al. 1 found that, in the US, children of color are under-identified with ASD. Missing a diagnosis is not without consequences; approximately 26% of adults with ASD are under-employed, and are under-enrolled in higher education.
 
+### [Designing gesture-based applications for individuals with developmental disabilities: guidelines from user studies in India](https://dl.acm.org/doi/abs/10.1145/3161710)
+
+**Abstract**
+
+> Gesture interaction provides a multitude of benefits to individuals with developmental disabilities, from enhancing social, motor and cognitive skills to providing a safe and controlled environment for simulating real-world scenarios. As gesture-based applications gain ground in the special education domain, we study their potential in the Indian context. Together with Tamana, an NGO in New Delhi, we have been conducting a series of exploratory user studies since October 2013. This includes the design and evaluation of three gesture-based applications to impart social and life skills to individuals with developmental disabilities. The Kirana application employs socially appropriate gestures to teach the life skill of buying day-to-day items from a local Indian grocery. Balloons promotes joint attention skills through collaborative interaction. HOPE improves motor coordination and social and cognitive skills, with increasing levels of difficulty. Based on studies with these applications, this article presents guidelines for designing gesture-based applications for individuals with developmental disabilities. The guidelines focus on (a) designing applications that cater to a larger group of individuals to encourage collaboration and inclusion, for instance, providing easy and controllable transitions between different task levels, and balancing interaction and content complexity; (b) addressing the challenges in conducting research in this domain, with respect to ethical and procedural decisions; and (c) designing for technology acceptance within the Indian context, for example, by following a collaborative and stakeholder inclusive approach, and addressing apprehensions towards technology adoption. These guidelines aim to benefit other practitioners working in this domain and especially in the educational technology context of India.
+
+![alt text](6-Figure5-1.png)
+
 ### [Promoting joint attention with computer supported collaboration in children with autism](https://dl.acm.org/doi/abs/10.1145/2982142.2982166)
 
 **Abstract**
@@ -32,14 +40,6 @@ For the full list of papers you can visit my [Google Scholar](https://scholar.go
 
 ![alt text](3-Figure1-1.png)
 ![alt text](5-Figure2-1.png)
-![alt text](6-Figure5-1.png)
-
-
-### [Designing gesture-based applications for individuals with developmental disabilities: guidelines from user studies in India](https://dl.acm.org/doi/abs/10.1145/3161710)
-
-**Abstract**
-
-> Gesture interaction provides a multitude of benefits to individuals with developmental disabilities, from enhancing social, motor and cognitive skills to providing a safe and controlled environment for simulating real-world scenarios. As gesture-based applications gain ground in the special education domain, we study their potential in the Indian context. Together with Tamana, an NGO in New Delhi, we have been conducting a series of exploratory user studies since October 2013. This includes the design and evaluation of three gesture-based applications to impart social and life skills to individuals with developmental disabilities. The Kirana application employs socially appropriate gestures to teach the life skill of buying day-to-day items from a local Indian grocery. Balloons promotes joint attention skills through collaborative interaction. HOPE improves motor coordination and social and cognitive skills, with increasing levels of difficulty. Based on studies with these applications, this article presents guidelines for designing gesture-based applications for individuals with developmental disabilities. The guidelines focus on (a) designing applications that cater to a larger group of individuals to encourage collaboration and inclusion, for instance, providing easy and controllable transitions between different task levels, and balancing interaction and content complexity; (b) addressing the challenges in conducting research in this domain, with respect to ethical and procedural decisions; and (c) designing for technology acceptance within the Indian context, for example, by following a collaborative and stakeholder inclusive approach, and addressing apprehensions towards technology adoption. These guidelines aim to benefit other practitioners working in this domain and especially in the educational technology context of India.
 
 
 ### [Computer assisted autism interventions for india](https://dl.acm.org/doi/abs/10.1145/3010915.3011007)
