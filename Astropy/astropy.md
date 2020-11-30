@@ -14,7 +14,7 @@
 The AstroPy blog is part of the amatuer astronomy blog I started this year called Quasars & Cosmos. This page will have all the Python projects uploaded for astronomy. Meanwhile, check out [my blog](http://quasarsandcosmos.wordpress.com/) and share your feedback.  
 
 
-### Quasars and Cosmos (Blog)
+### Quasars and Cosmos: Amatuer Astronomy Blog
 
 ### IV. [12 Things to Spot in the Urban Night Sky](https://quasarsandcosmos.wordpress.com/2020/11/17/12-things-to-see-in-the-urban-night-sky/)
 “The nitrogen in our DNA, the calcium in our teeth, the iron in our blood, the carbon in our apple pies were made in the interiors of collapsing stars. We are made of starstuff.” – Carl Sagan, Cosmos. Ever looked up at the urban night sky and wished if you could see the stars? or wondered what the names of the visible stars are? In this post, I’m going to help you identify some stars that you can spot from wherever you are, provided you can see the night sky. [Read more](https://quasarsandcosmos.wordpress.com/2020/11/17/12-things-to-see-in-the-urban-night-sky/)
