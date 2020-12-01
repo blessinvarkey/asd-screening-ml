@@ -7,7 +7,7 @@
   - Computer Vision Project 
   - Machine Learning Project
 4. Personal Projects
-  - [AstroPy Blog](https://blessinvarkey.github.io/astropy)
+  - [AstroPy Blog](https://blessinvarkey.github.io/Astropy/astropy)
 
 
 
