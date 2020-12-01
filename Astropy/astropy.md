@@ -11,10 +11,10 @@
 
 
 ### AstroPy 
-The AstroPy blog is part of the amatuer astronomy blog I started this year called Quasars & Cosmos. This page will have all the Python projects uploaded for astronomy. Meanwhile, check out [my blog](http://quasarsandcosmos.wordpress.com/) and share your feedback.  
+The AstroPy blog is part of the amatuer astronomy blog I started this year called Quasars & Cosmos. This section will be updated as my blog progresses. Meanwhile, do check out [my blog](http://quasarsandcosmos.wordpress.com/).   
 
 
-### Quasars and Cosmos: Amatuer Astronomy Blog
+### Quasars and Cosmos
 
 ### VI. [Apparent Magnitude: Measuring the brightness of the stars](https://quasarsandcosmos.wordpress.com/2020/12/01/apparent-magnitude-measuring-the-brightness-of-the-stars/)
 Stars in the night sky come in different size, composition and brightness. A star’s brightness depends on its composition and its distance from the observer. In astronomy, the apparent magnitude is one of the two parameters used by astronomers to measure the brightness of a celestial object from Earth. Given below is a list of celestial objects visible in the night sky with their apparent magnitude. In the apparent magnitude scale, objects with a negative value are brighter than those with positive value. [Read more](https://quasarsandcosmos.wordpress.com/2020/12/01/apparent-magnitude-measuring-the-brightness-of-the-stars/)
