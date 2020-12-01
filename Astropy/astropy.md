@@ -16,6 +16,12 @@ The AstroPy blog is part of the amatuer astronomy blog I started this year calle
 
 ### Quasars and Cosmos: Amatuer Astronomy Blog
 
+### VI. [Apparent Magnitude: Measuring the brightness of the stars](https://quasarsandcosmos.wordpress.com/2020/12/01/apparent-magnitude-measuring-the-brightness-of-the-stars/)
+Stars in the night sky come in different size, composition and brightness. A star’s brightness depends on its composition and its distance from the observer. In astronomy, the apparent magnitude is one of the two parameters used by astronomers to measure the brightness of a celestial object from Earth. Given below is a list of celestial objects visible in the night sky with their apparent magnitude. In the apparent magnitude scale, objects with a negative value are brighter than those with positive value. [Read more](https://quasarsandcosmos.wordpress.com/2020/12/01/apparent-magnitude-measuring-the-brightness-of-the-stars/)
+
+### V. [Comets: December 2020](https://quasarsandcosmos.wordpress.com/2020/12/01/comets-december-2020/)
+Highlighting the comet above horizon, is one of the most interesting features of the stargazing app called the Night Sky (see Fig 1). The app’s feature encouraged me to create my own monthly list of the incoming comets expected to be moderately bright or notable, in India and the Northern Celestial Hemisphere.Depending on your location, you might need atleast a pair of binoculars, or a decent telescope to view the comet(s). Do download a stargazing app to help you spot the comet! [Read more](https://quasarsandcosmos.wordpress.com/2020/12/01/comets-december-2020/)
+
 ### IV. [12 Things to Spot in the Urban Night Sky](https://quasarsandcosmos.wordpress.com/2020/11/17/12-things-to-see-in-the-urban-night-sky/)
 “The nitrogen in our DNA, the calcium in our teeth, the iron in our blood, the carbon in our apple pies were made in the interiors of collapsing stars. We are made of starstuff.” – Carl Sagan, Cosmos. Ever looked up at the urban night sky and wished if you could see the stars? or wondered what the names of the visible stars are? In this post, I’m going to help you identify some stars that you can spot from wherever you are, provided you can see the night sky. [Read more](https://quasarsandcosmos.wordpress.com/2020/11/17/12-things-to-see-in-the-urban-night-sky/)
 
