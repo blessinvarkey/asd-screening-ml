@@ -2,10 +2,6 @@
 
 1. **About Me**
 2. [Research](https://blessinvarkey.github.io/Research/research)
-3. Projects
-  - Accessibility Projects
-  - Computer Vision Project 
-  - Machine Learning Project
 
 
 
