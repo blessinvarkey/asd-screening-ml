@@ -2,10 +2,6 @@
 
 1. [About Me](https://blessinvarkey.github.io/)
 2. **Research**
-3. Projects
-  - Accessibility Projects
-  - Computer Vision Project 
-  - Machine Learning Project
 
 ### Research (Selected)
 For the full list of papers you can visit my [Google Scholar](https://scholar.google.co.in/citations?user=LyH1LVAAAAAJ&hl=en) or [dblp profile](https://dblp.org/pid/176/4218.html). 
