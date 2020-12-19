@@ -13,7 +13,7 @@
 ### AstroPy 
 The AstroPy blog is part of the amatuer astronomy blog I started this year called Quasars & Cosmos. This section will be updated as my blog progresses. Meanwhile, do check out [my blog](http://quasarsandcosmos.wordpress.com/).   
 
-
+<script src="https://gist.github.com/blessinvarkey/a6b0c12d40f2aafa79a1e407ed9f2367.js"></script>
 ### Quasars and Cosmos
 
 ### VI. [Apparent Magnitude: Measuring the brightness of the stars](https://quasarsandcosmos.wordpress.com/2020/12/01/apparent-magnitude-measuring-the-brightness-of-the-stars/)
