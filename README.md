@@ -10,4 +10,14 @@ However, according to the dataset, 'Yes' indicates that the individual is on the
 A1 I often notice small sounds when others do not A2 I usually concentrate more on the whole picture, rather than the small details A3 I find it easy to do more than one thing at once A4 If there is an interruption, I can switch back to what I was doing very quickly A5 I find it easy to ‘read between the lines’ when someone is talking to me A6 I know how to tell if someone listening to me is getting bored A7 When I’m reading a story I find it difficult to work out the characters’ intentions A8 I like to collect information about categories of things (e.g. types of car, types of bird, types of train, types of plant etc) A9 I find it easy to work out what someone is thinking or feeling just by looking at their face A10 I find it difficult to work out people’s intentions
 
 
-### Scope of the project
+### Dataset 
+
+Provided by Fadi Fayez Thabtah,Department of Digital Technology, Manukau Institute of Technology, Auckland, New Zealand
+
+Relevant Papers:
+
+1) Tabtah, F. (2017). Autism Spectrum Disorder Screening: Machine Learning Adaptation and DSM-5 Fulfillment. Proceedings of the 1st International Conference on Medical and Health Informatics 2017, pp.1-6. Taichung City, Taiwan, ACM.
+
+2) Thabtah, F. (2017). ASDTests. A mobile app for ASD screening. www.asdtests.com [accessed December 20th, 2017].
+
+3) Thabtah, F. (2017). Machine Learning in Autistic Spectrum Disorder Behavioural Research: A Review. To Appear in Informatics for Health and Social Care Journal. December, 2017 (in press)
