@@ -27,8 +27,6 @@ The Dataset can be downloaded from the UCI Repository which is publicly availabl
 The project currently implements Logistic Regression, since the dependent variable is binary. 
 PS: There might be an update on the classification models with an updated dataset. 
 
-## Execute
-Download and run: python asd_screening.py
 
 ## Output 
 Logistic Regression Accuracy 
