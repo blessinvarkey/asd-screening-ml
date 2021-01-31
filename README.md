@@ -30,7 +30,7 @@ PS: There might be an update on the classification models with an updated datase
 ## Execute
 Download and run: python asd_screening.py
 
-# Output 
+## Output 
 Logistic Regression Accuracy 
 Classification Report
 The output is either a 1(YES, the individual is on the Spectrum) or 0(NO, the individual is not on the Spectrum)
