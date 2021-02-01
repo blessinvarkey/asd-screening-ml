@@ -38,3 +38,6 @@ def train_test_split(df_adult, train_frac=0.7, seed=1):
     #shuffle the dataset
     np.random.seed(seed)
     np.random.shuffle(df_matrix)
+
+    #train_features
+    #train_labels
