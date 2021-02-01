@@ -24,7 +24,7 @@ A9 I find it easy to work out what someone is thinking or feeling just by lookin
 The Dataset can be downloaded from the UCI Repository which is publicly available [here](https://archive.ics.uci.edu/ml/datasets/Autism+Screening+Adult). 
 
 ## Algorithm Used
-The project currently implements Logistic Regression, since the dependent variable is binary. 
+The project currently implements Logistic Regression, since the dependent variable is binary.   
 PS: There might be an update on the classification models with an updated dataset. 
 
 
