@@ -8,10 +8,11 @@ import unittest
 
 class ASDScreening():
 
-def read_file(self, file_name, sample=True):
-with open("Autism_Data.arff", 'r') as file:
-    df = pd.read_csv(file)
-    print(df)
+    def read_file(self, file_name, sample=True):
+    with open("Autism_Data.arff", 'r') as file:
+        df = pd.read_csv(file)
+        self.df = df
+
 
     def oneHotEncoding():
         pass
