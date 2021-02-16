@@ -41,3 +41,6 @@ def train_test_split(df_adult, train_frac=0.7, seed=1):
 
     #train_features
     #train_labels
+
+#    test_features
+#    test_labels

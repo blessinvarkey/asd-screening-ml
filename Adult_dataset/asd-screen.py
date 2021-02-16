@@ -6,18 +6,21 @@ import missingno
 import seaborn as sns
 import unittest
 
-class ASDScreening():
+class ASDScreening:
 
-    def read_file(self, file_name, sample=True):
-    with open("Autism_Data.arff", 'r') as file:
-        df = pd.read_csv(file)
-        self.df = df
+#constructor
+    def __init__(self):
+        self.data = []
 
+    def read_file(self, dataset):
+        with open(dataset, 'r') as file:
+            print(pd.read_csv(file))
+            self.data = df
 
     def oneHotEncoding():
         pass
 
-    def train_test_split(seld, df, train_frac = 0.7, seed=1):
+    def train_test_split(self, df, train_frac = 0.7, seed=1):
         df_matrix = df.values
         np.random.seed(seed)
         np.random.shuffle(df_matrix) #shuffle the data
@@ -29,7 +32,15 @@ class ASDScreening():
 
         return (train_features, train_labels), (test_features, test_labels)
 
+    def plot_heatmap(self):
+        fig = plt.figure(figsize=(12,10))
+        sns.heatmap(self.data.corr())
+
+dataset_adult = ASDScreening()
+dataset_adult.read_file("Autism_Data.arff")
 
 
-class TestASDScreening(unittest.TestCase):
-   pass
+
+#Unit test
+# class TestASDScreening(unittest.TestCase):
+#     assert read_file(df = "Autism_Data.arff") == True
