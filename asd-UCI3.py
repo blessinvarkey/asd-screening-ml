@@ -16,3 +16,44 @@ class ASDScreening:
         with open(dataset, 'r') as file:
             self.data = pd.read_csv(file)
 #            print(self.data)
+    def missing_data(self):
+        self.data.replace('?', np.nan)
+        self.missing_data = missingno.matrix(self.data, figsize =(30,10))
+        print(self.missing_data)
+
+    def data_types(self):
+        self.dtypes = self.data.dtypes
+        print(self.dtypes)
+
+    def describe(self):
+        self.describe = self.data.describe()
+        print(self.describe)
+
+    def columns(self):
+        self.column = self.data.columns
+        print(self.column)
+
+
+
+def main():
+    print("\n******* Adult Dataset *************\n")
+    dataset_adult = ASDScreening()
+    dataset_adult.read_file("Autism_Data.arff")
+    # dataset_adult.missing_data()
+    # dataset_adult.nan_values()
+    # dataset_adult.data_types()
+    #dataset_adult.describe()
+    dataset_adult.columns()
+
+    print("\n******* Toddler Dataset *************\n")
+
+    dataset_toddler = ASDScreening()
+    dataset_toddler.read_file("Autism_Dataset.csv")
+    # dataset_toddler.missing_data()
+    # dataset_toddler.nan_values()
+    # dataset_toddler.data_types()
+    # dataset_toddler.describe()
+    dataset_toddler.columns()
+
+if __name__ == '__main__':
+    main()
