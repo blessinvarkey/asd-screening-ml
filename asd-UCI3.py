@@ -22,6 +22,13 @@ class ASDScreening:
         self.missing_data = missingno.matrix(self.data, figsize =(30,10))
         plt.show()
 
+    def preprocessing(self):
+        fig = plt.figure(figsize=(10,10))
+        sns.countplot(y='contry_of_res', data=self.data)
+        self.data.contry_of_res.value_counts()
+        plt.show()
+
+
 
     def data_types(self):
         self.dtypes = self.data.dtypes
@@ -64,11 +71,12 @@ def main():
     print("\n******* Adult Dataset *************\n")
     dataset_adult = ASDScreening()
     dataset_adult.read_file("Autism_Data.arff")
-    dataset_adult.missing_data()
+#    dataset_adult.missing_data()
+    dataset_adult.columns()
+    dataset_adult.preprocessing()
     #dataset_adult.nan_values()
     #dataset_adult.data_types()
     #dataset_adult.describe()
-#    dataset_adult.columns()
 #    dataset_adult.plot_heatmap()
 
     print("\n******* Toddler Dataset *************\n")
