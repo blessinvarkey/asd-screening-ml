@@ -4,7 +4,7 @@ import os
 import matplotlib.pyplot as plt
 import missingno
 import seaborn as sns
-import unittest
+#import unittest
 
 class ASDScreening:
 
@@ -17,9 +17,11 @@ class ASDScreening:
             self.data = pd.read_csv(file)
 #            print(self.data)
     def missing_data(self):
-        self.data.replace('?', np.nan)
+        self.data = self.data.replace('?', np.nan)
+#        print(self.data)
         self.missing_data = missingno.matrix(self.data, figsize =(30,10))
-        print(self.missing_data)
+        plt.show()
+
 
     def data_types(self):
         self.dtypes = self.data.dtypes
@@ -56,16 +58,18 @@ class ASDScreening:
     def plot_heatmap(self):
         fig = plt.figure(figsize=(12,10))
         sns.heatmap(self.data.corr())
+        plt.show()
 
 def main():
     print("\n******* Adult Dataset *************\n")
     dataset_adult = ASDScreening()
     dataset_adult.read_file("Autism_Data.arff")
-    # dataset_adult.missing_data()
-    # dataset_adult.nan_values()
-    # dataset_adult.data_types()
+    dataset_adult.missing_data()
+    #dataset_adult.nan_values()
+    #dataset_adult.data_types()
     #dataset_adult.describe()
-    dataset_adult.columns()
+#    dataset_adult.columns()
+#    dataset_adult.plot_heatmap()
 
     print("\n******* Toddler Dataset *************\n")
 
@@ -75,7 +79,7 @@ def main():
     # dataset_toddler.nan_values()
     # dataset_toddler.data_types()
     # dataset_toddler.describe()
-    dataset_toddler.columns()
+    #dataset_toddler.columns()
 
 if __name__ == '__main__':
     main()
