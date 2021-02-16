@@ -34,6 +34,28 @@ class ASDScreening:
         print(self.column)
 
 
+    def nan_values(self):
+        nAn = self.data.isnull().sum()
+        print(nAn)
+
+    def oneHotEncoding():
+        pass
+
+    def train_test_split(self, df, train_frac = 0.7, seed=1):
+        df_matrix = df.values
+        np.random.seed(seed)
+        np.random.shuffle(df_matrix) #shuffle the data
+        train_size = int(df_matrix.shape[0]*train_frac) #train the data
+        train_features = def_matrix[:train_size, :-1] #except last column
+        train_labels = df_matrix[:train_size, -1] #last column
+        test_features = df_matrix[train_size:, :-1] #test data
+        test_labels = df_matrix[train_size:, -1]
+
+        return (train_features, train_labels), (test_features, test_labels)
+
+    def plot_heatmap(self):
+        fig = plt.figure(figsize=(12,10))
+        sns.heatmap(self.data.corr())
 
 def main():
     print("\n******* Adult Dataset *************\n")
