@@ -26,7 +26,7 @@ class ASDScreening:
         self.column = self.data.columns
         print(self.column)
 
-    def spellcheck(self):
+    def spellcheck_adult_dataset(self):
         self.data = self.data.rename(columns={})
         self.data.columns = ['A1', 'A2', 'A3', 'A4', 'A5', 'A6', 'A7', 'A8', 'A9', 'A10','age', 'gender', 'ethnicity', 'jaundice', 'autism', 'country', 'used_app_before', 'result', 'age_desc', 'relation', 'ASD_label ']
 
@@ -35,20 +35,27 @@ class ASDScreening:
         fig = plt.figure(figsize=(10,10))
         sns.countplot(y='country', data=self.data)
         self.data.country.value_counts()
-        plt.show()
 
         fig = plt.figure(figsize=(10,6))
         sns.countplot(x="gender", data=self.data, facecolor=(0, 0, 0, 0), linewidth=5, edgecolor=sns.color_palette("dark", 3))
-        plt.show()
 
         fig = plt.figure(figsize=(25,6))
         sns.countplot(y='jaundice', data=self.data);
         self.data.jaundice.value_counts()
-        plt.show()
 
         fig = plt.figure(figsize=(25,6))
         sns.countplot(y='autism', data=self.data);
         self.data.autism.value_counts()
+
+        fig = plt.figure(figsize=(25,6))
+        sns.countplot(y='used_app_before', data = self.data)
+        self.data.used_app_before.value_counts()
+
+
+        plt.figure(figsize =(15,10))
+        sns.countplot(x= 'relation', data = self.data)
+        self.data['relation'].value_counts()
+
         plt.show()
 
 
@@ -92,12 +99,12 @@ def main():
     dataset_adult.read_file("Autism_Data.arff")
 #    dataset_adult.missing_data()
     dataset_adult.columns()
-    dataset_adult.spellcheck()
+    dataset_adult.spellcheck_adult_dataset()
     dataset_adult.plot_histogram()
     dataset_adult.nan_values()
     dataset_adult.data_types()
     dataset_adult.describe()
-    dataset_adult.plot_heatmap()
+#    dataset_adult.plot_heatmap()
 
     print("\n******* Toddler Dataset *************\n")
 
