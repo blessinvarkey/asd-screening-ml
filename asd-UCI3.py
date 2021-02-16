@@ -28,13 +28,17 @@ class ASDScreening:
 
     def spellcheck_adult_dataset(self):
         self.data = self.data.rename(columns={})
-        self.data.columns = ['A1', 'A2', 'A3', 'A4', 'A5', 'A6', 'A7', 'A8', 'A9', 'A10','age', 'gender', 'ethnicity', 'jaundice', 'autism', 'country', 'used_app_before', 'result', 'age_desc', 'relation', 'ASD_label ']
+        self.data.columns = ['A1', 'A2', 'A3', 'A4', 'A5', 'A6', 'A7', 'A8', 'A9', 'A10','age', 'gender', 'ethnicity', 'jaundice', 'autism', 'country', 'used_app_before', 'result', 'age_desc', 'relation', 'Label ']
+
+    def spellcheck_toddler_dataset(self):
+        self.data = self.data.rename(columns={})
+        self.data.columns = ['Case_No', 'A1', 'A2', 'A3', 'A4', 'A5', 'A6', 'A7', 'A8', 'A9', 'A10', 'age', 'result', 'gender', 'ethnicity', 'jaundice', 'Family_mem_with_ASD', 'relation', 'Label']
 
 
     def plot_histogram(self):
-        fig = plt.figure(figsize=(10,10))
-        sns.countplot(y='country', data=self.data)
-        self.data.country.value_counts()
+        # fig = plt.figure(figsize=(10,10))
+        # sns.countplot(y='country', data=self.data)
+        # self.data.country.value_counts()
 
         fig = plt.figure(figsize=(10,6))
         sns.countplot(x="gender", data=self.data, facecolor=(0, 0, 0, 0), linewidth=5, edgecolor=sns.color_palette("dark", 3))
@@ -43,13 +47,16 @@ class ASDScreening:
         sns.countplot(y='jaundice', data=self.data);
         self.data.jaundice.value_counts()
 
-        fig = plt.figure(figsize=(25,6))
-        sns.countplot(y='autism', data=self.data);
-        self.data.autism.value_counts()
+        fig = plt.figure(figsize=(26,8))
+        sns.countplot(x= 'age', data = self.data)
 
-        fig = plt.figure(figsize=(25,6))
-        sns.countplot(y='used_app_before', data = self.data)
-        self.data.used_app_before.value_counts()
+        # fig = plt.figure(figsize=(25,6))
+        # sns.countplot(y='autism', data=self.data);
+        # self.data.autism.value_counts()
+
+        # fig = plt.figure(figsize=(25,6))
+        # sns.countplot(y='used_app_before', data = self.data)
+        # self.data.used_app_before.value_counts()
 
 
         plt.figure(figsize =(15,10))
@@ -68,10 +75,12 @@ class ASDScreening:
         print(self.describe)
 
 
-
     def nan_values(self):
         nAn = self.data.isnull().sum()
         print(nAn)
+
+    def binn():
+        pass
 
     def oneHotEncoding():
         pass
@@ -94,27 +103,28 @@ class ASDScreening:
         plt.show()
 
 def main():
-    print("\n******* Adult Dataset *************\n")
-    dataset_adult = ASDScreening()
-    dataset_adult.read_file("Autism_Data.arff")
-#    dataset_adult.missing_data()
-    dataset_adult.columns()
-    dataset_adult.spellcheck_adult_dataset()
-    dataset_adult.plot_histogram()
-    dataset_adult.nan_values()
-    dataset_adult.data_types()
-    dataset_adult.describe()
-#    dataset_adult.plot_heatmap()
-
     print("\n******* Toddler Dataset *************\n")
+    dataset_toddler = ASDScreening()
+    dataset_toddler.read_file("Autism_Dataset.csv")
+    dataset_toddler.missing_data()
+    dataset_toddler.nan_values()
+    dataset_toddler.data_types()
+    dataset_toddler.spellcheck_toddler_dataset()
+    dataset_toddler.describe()
+    dataset_toddler.columns()
+    dataset_toddler.plot_histogram()
+#     print("\n******* Adult Dataset *************\n")
+#     dataset_adult = ASDScreening()
+#     dataset_adult.read_file("Autism_Data.arff")
+#      dataset_adult.missing_data()
+#     dataset_adult.columns()
+#     dataset_adult.spellcheck_adult_dataset()
+#     dataset_adult.plot_histogram()
+#     dataset_adult.nan_values()
+#     dataset_adult.data_types()
+#     dataset_adult.describe()
+# #    dataset_adult.plot_heatmap()
 
-#    dataset_toddler = ASDScreening()
-#    dataset_toddler.read_file("Autism_Dataset.csv")
-    # dataset_toddler.missing_data()
-    # dataset_toddler.nan_values()
-    # dataset_toddler.data_types()
-    # dataset_toddler.describe()
-#    dataset_toddler.columns()
 
 if __name__ == '__main__':
     main()
