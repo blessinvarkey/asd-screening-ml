@@ -15,12 +15,12 @@ class ASDScreening:
     def read_file(self, dataset):
         with open(dataset, 'r') as file:
             self.data = pd.read_csv(file)
-#            print(self.data)
+#            print(self.data.values)
     def missing_data(self):
         self.data = self.data.replace('?', np.nan)
 #        print(self.data)
         self.missing_data = missingno.matrix(self.data, figsize =(30,10))
-        plt.show()
+#        plt.show()
 
     def columns(self):
         self.column = self.data.columns
@@ -69,10 +69,12 @@ class ASDScreening:
     def data_types(self):
         self.dtypes = self.data.dtypes
         print(self.dtypes)
+        print('\n*****************\n')
 
     def describe(self):
         self.describe = self.data.describe()
         print(self.describe)
+        print('\n*****************\n')
 
 
     def nan_values(self):
@@ -85,15 +87,15 @@ class ASDScreening:
     def oneHotEncoding():
         pass
 
-    def train_test_split(self, df, train_frac = 0.7, seed=1):
-        df_matrix = df.values
+    def train_test_split(self, train_frac = 0.7, seed=1):
+        df = self.data.values
         np.random.seed(seed)
-        np.random.shuffle(df_matrix) #shuffle the data
-        train_size = int(df_matrix.shape[0]*train_frac) #train the data
-        train_features = def_matrix[:train_size, :-1] #except last column
-        train_labels = df_matrix[:train_size, -1] #last column
-        test_features = df_matrix[train_size:, :-1] #test data
-        test_labels = df_matrix[train_size:, -1]
+        np.random.shuffle(df) #shuffle the data
+        train_size = int(df.shape[0]*train_frac) #train the data
+        train_features = df[:train_size, :-1] #except last column
+        train_labels = df[:train_size, -1] #last column
+        test_features = df[train_size:, :-1] #test data
+        test_labels = df[train_size:, -1]
 
         return (train_features, train_labels), (test_features, test_labels)
 
@@ -103,7 +105,7 @@ class ASDScreening:
         plt.show()
 
 def main():
-    print("\n******* Toddler Dataset *************\n")
+    print("\n**************************** Toddler Dataset ***************************\n")
     dataset_toddler = ASDScreening()
     dataset_toddler.read_file("Autism_Dataset.csv")
     dataset_toddler.missing_data()
@@ -112,18 +114,20 @@ def main():
     dataset_toddler.spellcheck_toddler_dataset()
     dataset_toddler.describe()
     dataset_toddler.columns()
-    dataset_toddler.plot_histogram()
-#     print("\n******* Adult Dataset *************\n")
-#     dataset_adult = ASDScreening()
-#     dataset_adult.read_file("Autism_Data.arff")
-#      dataset_adult.missing_data()
-#     dataset_adult.columns()
-#     dataset_adult.spellcheck_adult_dataset()
-#     dataset_adult.plot_histogram()
-#     dataset_adult.nan_values()
-#     dataset_adult.data_types()
-#     dataset_adult.describe()
-# #    dataset_adult.plot_heatmap()
+    # dataset_toddler.plot_histogram()
+    dataset_toddler.train_test_split()
+    print("\n**************************** Adult Dataset ***************************\n")
+    dataset_adult = ASDScreening()
+    dataset_adult.read_file("Autism_Data.arff")
+    dataset_adult.missing_data()
+    dataset_adult.columns()
+    dataset_adult.spellcheck_adult_dataset()
+    # dataset_adult.plot_histogram()
+    dataset_adult.nan_values()
+    dataset_adult.data_types()
+    dataset_adult.describe()
+    dataset_adult.train_test_split()
+#    dataset_adult.plot_heatmap()
 
 
 if __name__ == '__main__':
