@@ -28,7 +28,7 @@ The project implements Logistic Regression.
 PS: There might be an update on the classification models with an updated dataset. 
 
 ## How to use
-View the [Adult Autism dataset](https://github.com/blessinvarkey/ASD-Screening/blob/main/Adult_dataset/autism-screening-project.ipynb) to see the implementation of Logistic Regression on the Adult dataset. [Follow UCI3.py](https://github.com/blessinvarkey/ASD-Screening/blob/main/asd-UCI3.py) file for the updates. 
+View the [Adult Autism dataset](https://github.com/blessinvarkey/ASD-Screening/blob/main/Adult_dataset/autism-screening-project.ipynb) to see the implementation of Logistic Regression on the Adult dataset. Follow [UCI3.py](https://github.com/blessinvarkey/ASD-Screening/blob/main/asd-UCI3.py) file for updates. 
 
 
 ## Output 
