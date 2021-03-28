@@ -16,7 +16,8 @@ A5 I find it easy to ‘read between the lines’ when someone is talking to me.
 A6 I know how to tell if someone listening to me is getting bored.   
 A7 When I’m reading a story I find it difficult to work out the characters’ intentions.    
 A8 I like to collect information about categories of things (e.g. types of car, types of bird, types of train, types of plant etc).    
-A9 I find it easy to work out what someone is thinking or feeling just by looking at their face A10 I find it difficult to work out people’s intentions
+A9 I find it easy to work out what someone is thinking or feeling just by looking at their face. 
+A10 I find it difficult to work out people’s intentions
 
 
 ## Dataset 
