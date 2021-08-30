@@ -27,11 +27,56 @@ The Dataset can be downloaded from the UCI Repository which is publicly availabl
 ## Algorithm Used
 The project implements Logistic Regression.   
 
-## How to use
-View the [Adult Autism dataset](https://github.com/blessinvarkey/ASD-Screening/blob/main/Adult_dataset/autism-screening-project.ipynb) to see the implementation of Logistic Regression on the Adult dataset. 
-
-
 ## Output 
 Logistic Regression Accuracy 
 Classification Report
 The output is either a 1(YES, the individual is on the Spectrum) or 0(NO, the individual is not on the Spectrum)
+
+
+# Installation
+
+### Jupiter Notebook 
+View the [Adult Autism dataset](https://github.com/blessinvarkey/ASD-Screening/blob/main/Adult_dataset/autism-screening-project.ipynb) to see the implementation of Logistic Regression on the Adult dataset. 
+
+### Energy Consumption of implementing Logistic Regression in ASD Screening project 
+To see the **energy consumption** of the project download the [asd.py](https://github.com/blessinvarkey/ASD-Screening/blob/main/Energy_Consumption/asd.py) and the [Autism_Data.arff](https://github.com/blessinvarkey/ASD-Screening/blob/main/Energy_Consumption/Autism_Data.arff) file along with a code editor.
+
+Use the terminal to navigate to the source folder. 
+
+Create a virtual environment using `conda` for easier management of dependencies and packages. You can also follow the instructions on the [official conda website](https://docs.conda.io/projects/conda/en/latest/user-guide/install/)
+
+```
+conda create --name codecarbon python=3.6
+conda activate codecarbon
+```
+
+#### Install from PyPI repository
+```
+pip install codecarbon
+```
+
+#### Install from Conda repository
+
+```
+conda install -c codecarbon -c conda-forge codecarbon
+```
+
+This project requires **Python** and the following Python libraries installed:
+
+- [NumPy](http://www.numpy.org/)
+- [Pandas](http://pandas.pydata.org/)
+- [matplotlib](http://matplotlib.org/)
+- [scikit-learn](http://scikit-learn.org/stable/)
+
+You can install them using 
+
+```
+pip install <write the packagename you want to download>
+```
+
+To run the code
+```
+python run.py
+```
+
+[Back to top](https://github.com/blessinvarkey/ASD-Screening/blob/main/Adult_dataset/autism-screening-project.ipynb)
