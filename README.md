@@ -35,14 +35,14 @@ The output is either a 1(YES, the individual is on the Spectrum) or 0(NO, the in
 
 # Installation
 
-### Jupiter Notebook 
+### 1. AQ-10 Screening 
 
 Install [Jupiter Notebook](https://jupyter.org/install.html) to try the model.
 
 Download the [Adult Autism](https://github.com/blessinvarkey/ASD-Screening/blob/main/Adult_dataset/autism-screening-project.ipynb) file with [Autism_Data.arff](https://github.com/blessinvarkey/ASD-Screening/blob/main/Energy_Consumption/Autism_Data.arff) to implement Logistic Regression on the Adult dataset. 
 
 
-### Energy Consumption of implementing Logistic Regression in ASD Screening project 
+### 2. Energy Consumption of implementing Logistic Regression in ASD Screening project 
 To see the **energy consumption** of the project download the [asd.py](https://github.com/blessinvarkey/ASD-Screening/blob/main/Energy_Consumption/asd.py) and the [Autism_Data.arff](https://github.com/blessinvarkey/ASD-Screening/blob/main/Energy_Consumption/Autism_Data.arff) file along with a code editor.
 
 Use the terminal to navigate to the source folder. 
